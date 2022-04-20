@@ -3,7 +3,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * my task10
+ * main - readme password generator for 101-cracker
+ *
+ * Return: always 0
  */
 int main(void)
 {
